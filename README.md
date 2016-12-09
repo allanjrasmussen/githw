@@ -1,3 +1,3 @@
 # githw
-Endnu et projekt
+Endnu et projekt\n
 NY LINJE
